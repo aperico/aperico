@@ -1,7 +1,7 @@
 Hi 👋 My name is Armando Perico
 ===============================
 
-Software Engineer. Quality Manager. Software Delivery Supervisor.
+Software Engineer. Sotware Quality Manager. Software Delivery Supervisor.
 -----------------------------------
 
 * 🌍  I'm based in Mannheim, Germany.
