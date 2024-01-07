@@ -4,13 +4,13 @@ Hi 👋 My name is Armando Perico
 Software Engineer. Software Quality Manager. Software Delivery Supervisor.
 -----------------------------------
 
-* 🌍  I'm based in Mannheim, Germany.
+* 🌍  I'm based in Mannheim, Germany - Currently for John Deere working from Campinas, Brazil.
 * 🚀  On my private time, I'm currently working on [Ellygent and Ellyeditor](http://ellygent.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Methods for efficient requirements management.
 
 ### About
-I am a software engineer with a passion for delivering high-quality, reliable software solutions. I am dedicated to building strong, collaborative teams that work together to achieve common goals. My expertise lies in the fields of webap plications, automotive and heavy machinery systems with safety-critical systems, I have a deep understanding of the unique challenges for software development processes complying with ISO26262 and Automotive SPICE. I am driven by a desire to create innovative, user-friendly software that meets the needs of businesses and its customers, and I am committed to continuously learning and growing in my field, further strengthening my knowledge in software development processes and standards.
+Experienced and hands-on Software Engineering Leader with a diverse background in software development, co-founding tech startups, and managing embedded software projects in the automotive sector. Currently leading multi-disciplinary teams at John Deere, I actively engage in daily software development, emphasizing a practical understanding of the systems under my scope. Proven expertise in leading software teams, implementing Software Quality processes, and overseeing development of safety-critical software systems. Committed to fostering a genuine passion for software engineering and consistently delivering high-quality results
 
 ### Skills
 
