@@ -5,8 +5,7 @@ Software Engineer. Software Quality Manager. Software Delivery Supervisor.
 -----------------------------------
 
 * 🌍  I'm based in Mannheim, Germany - Currently for John Deere working from Campinas, Brazil.
-* 🚀  On my private time, I'm currently working on [Ellygent and Ellyeditor](http://ellygent.com)
-* 🧠  I'm learning Next.js
+* 🚀  On my private time, I'm currently working on [Ellygent and Ellyeditor](https://www.ellygent.com)
 * 🤝  I'm open to collaborating on Methods for efficient requirements management.
 
 ### About
