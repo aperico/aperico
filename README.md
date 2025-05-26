@@ -1,42 +1,48 @@
-Hi 👋 My name is Armando Perico
-===============================
+## Hi 👋 I'm Armando Perico  
 
-Software Engineer. Software Quality Manager. Software Delivery Supervisor.
------------------------------------
+### Engineering Leader | Software Engineer | Requirements Management Enthusiast
 
-* 🌍  I'm based in Mannheim, Germany - Currently for John Deere working from Campinas, Brazil.
-* 🚀  On my private time, I'm currently working on [Ellygent and Ellyeditor](https://www.ellygent.com)
-* 🤝  I'm open to collaborating on Methods for efficient requirements management.
+🚀 Currently leading embedded software development teams at **John Deere** while working as Expat from Indaiatuba, Brazil. Based in Mannheim, Germany.  
+🛠️ On the side, I’m building [**Ellygent**](https://www.ellygent.com) and **Ellyeditor** — tools for modern, AI-powered requirements management.  
+🤝 Open to collaborations on effective methods and tools for **Requirements Engineering** and **Software Quality**.
 
-### About
-Experienced and hands-on Software Engineering Leader with a diverse background in software development, co-founding tech startups, and managing embedded software projects in the automotive sector. Currently leading multi-disciplinary teams at John Deere, I actively engage in daily software development, emphasizing a practical understanding of the systems under my scope. Proven expertise in leading software teams, implementing Software Quality processes, and overseeing development of safety-critical software systems. Committed to fostering a genuine passion for software engineering and consistently delivering high-quality results
+---
 
-### Skills
+### 🔍 About Me
 
+I’m a hands-on **Software Engineering Leader** with over a decade of experience across startups, automotive, and heavy machinery sectors. My background spans full-cycle product development, software quality assurance, and managing the delivery of **safety-critical embedded systems**.
+
+At John Deere, I lead cross-functional teams building agricultural embedded systems for tractors, sprayers, and planters. I’m passionate about building systems that matter, growing high-performing teams, and bridging the gap between leadership and deep technical work.
+
+I also actively build tools to improve engineering workflows — like Ellygent, a modern AI assistant for writing and managing requirements.
+
+**Key Strengths:**  
+✅ Leading global teams across time zones  
+✅ Driving software quality and delivery processes  
+✅ Systems architecture and embedded software  
+✅ Building and scaling developer tools and internal platforms
+
+---
+
+### 📝 Recent Articles
+
+- [Why Traditional Requirements Tools Fail Small Teams (And How to Fix It for $0)](https://www.linkedin.com/pulse/why-traditional-requirements-tools-fail-small-teams-how-perico-zzt5f/?trackingId=4wGY0AvxQdaNh6G1cjsNiQ%3D%3D)
+- [Ellygent introduces version control for ReqIF](https://www.linkedin.com/posts/armandoperico_requirements-evolve-ellygent-versioning-activity-7324252002081783808-q7OD)
+- [How to use ReqIF for systems engineering and software development](https://www.linkedin.com/posts/armandoperico_understanding-the-requirements-interchange-activity-7299551310029164544-lodq)
+- [Generational Comparison: Key Traits and Defining Events](https://www.linkedin.com/pulse/generational-comparison-key-traits-defining-events-armando-perico-8ippf)
+
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  <a href="https://github.com/aperico" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/armandoperico" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://dev.to/armandoperico" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devto.svg" width="32" height="32" />
+  </a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/aperico" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/armandoperico" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
